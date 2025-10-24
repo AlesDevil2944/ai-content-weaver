@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+openai
+python-dotenv
+textstat
+markdownify
+fastapi-cors
+google-generativeai

@@ -1,0 +1,12 @@
+# Python
+venv/
+*.pyc
+__pycache__/
+
+# Secrets
+.env
+
+# Node
+node_modules/
+dist/
+.npm
